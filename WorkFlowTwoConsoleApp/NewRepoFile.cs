@@ -11,6 +11,7 @@ namespace WorkFlowTwoConsoleApp
         void test()
         {
             Console.WriteLine("New repo file");
+            Console.WriteLine("New repo file");
         }
     }
 }
