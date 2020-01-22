@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CFDA868D-42BF-47F6-A4FB-DE027AD395CD}</ProjectGuid>
+    <ProjectGuid>{96FAF9B2-325F-4AF3-9541-BF7EAF852F66}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>WorkFlowTwoConsoleApp</RootNamespace>
     <AssemblyName>WorkFlowTwoConsoleApp</AssemblyName>
@@ -43,10 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClassAdd.cs" />
-    <Compile Include="ClassDiv.cs" />
-    <Compile Include="ClassMul.cs" />
-    <Compile Include="ClassSub.cs" />
+    <Compile Include="NewRepoFile.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

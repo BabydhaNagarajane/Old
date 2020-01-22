@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace WorkFlowTwoConsoleApp
 {
-    public static class Program
+    class NewRepoFile
     {
-        public static void Main(string[] args)
+        void test()
         {
+            Console.WriteLine("New repo file");
         }
     }
 }
